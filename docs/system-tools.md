@@ -169,6 +169,7 @@
 * 🌐 **[Awesome Web Desktops](https://github.com/syxanash/awesome-web-desktops)** - OS Emulators / VMs
 * ↪️ **[Android Emulators](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25BA_android_emulators)**
 * ⭐ **[VMware Workstation](https://rentry.co/FMHYBase64#vmware) or [VirtualBox](https://www.virtualbox.org/)** / [Portable](https://www.vbox.me/) - Virtual Machines
+* ⭐ **[Proxmox](https://proxmox.com) - Virtualization Hypervisor (OS)
 * ⭐ **[Virt-Manager](https://virt-manager.org/)** or [Vagrantup](https://www.vagrantup.com/) - Virtual Machine Managers
 * ⭐ **[Hackintosh](https://hackintosh.com/)**, [Emaculation](https://www.emaculation.com/), [felixrieseberg](https://github.com/felixrieseberg/macintosh.js/) or [OneClick-macOS](https://github.com/notAperson535/OneClick-macOS-Simple-KVM) - macOS Virtual Machines
 * ⭐ **Hackintosh Tools** - [Guide](https://chefkissinc.github.io/guides/hackintosh/), [2](https://www.tonymacx86.com/) / [Ryzen](https://github.com/mikigal/ryzen-hackintosh) / [XiaoMi](https://github.com/daliansky/XiaoMi-Pro-Hackintosh)
