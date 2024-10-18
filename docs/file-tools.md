@@ -148,6 +148,7 @@
 
 * ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter 
 * ⭐ **[age](https://github.com/FiloSottile/age)** - File Encrypter
+* ⭐ **[Cryptomator](https://cryptomator.org/)** - Encrypted File Vaults
 * [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter 
 * [Hat](https://hat.sh/) - Browser-Based Encrypter 
 * [Kryptor](https://www.kryptor.co.uk/) - File Encrypter
